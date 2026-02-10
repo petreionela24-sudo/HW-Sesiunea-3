@@ -1,5 +1,6 @@
 package org.example;
 
+<<<<<<< HEAD
 import java.util.Scanner;
 
      class Calculator {
@@ -60,4 +61,7 @@ import java.util.Scanner;
 
           input.close();
     }
+=======
+public class Calculator {
+>>>>>>> 55e0a22e2ae9e8ec364530eb9deaed76250d9cf3
 }

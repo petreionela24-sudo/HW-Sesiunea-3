@@ -1,3 +1,4 @@
+<<<<<<< HEAD
   package org.example;
 
    import java.util.Scanner;
@@ -35,3 +36,9 @@
     }
 }
 
+=======
+package org.example;
+
+public class Convertor {
+}
+>>>>>>> 55e0a22e2ae9e8ec364530eb9deaed76250d9cf3
